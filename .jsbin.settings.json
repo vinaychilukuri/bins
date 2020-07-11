@@ -1,0 +1,10 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.theme": "dark",
+  "app.splitColumns": true,
+  "editor.lineWrapping": true,
+  "editor.lineNumbers": true,
+  "editor.fontSize": 15,
+  "app.source": "javascript"
+}
