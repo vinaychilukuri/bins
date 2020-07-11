@@ -5,6 +5,7 @@
   "app.splitColumns": true,
   "editor.lineWrapping": true,
   "editor.lineNumbers": true,
-  "editor.fontSize": 15,
-  "app.source": "javascript"
+  "editor.fontSize": 16,
+  "app.source": "javascript",
+  "app.result": "console"
 }
