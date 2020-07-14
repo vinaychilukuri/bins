@@ -5,9 +5,9 @@
   "app.splitColumns": true,
   "editor.lineWrapping": true,
   "editor.lineNumbers": true,
-  "editor.fontSize": 17.5,
   "app.source": "javascript",
   "app.result": "console",
   "editor.fontFamily": "'Operator Mono', menlo, monospace",
-  "javascript.autoRun": false
+  "javascript.autoRun": false,
+  "editor.fontSize": 17.5
 }
